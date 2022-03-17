@@ -17,10 +17,6 @@ button {
   padding: 0.5rem;
 }
 
-#root {
-  width: 100%;
-}
-
 section {
   display: flex;
   flex-direction: column;
