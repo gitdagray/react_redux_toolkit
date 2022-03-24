@@ -37,9 +37,11 @@
 
 ---
 
-### 📚 References
+### 📚 Redux References
 
 - 🔗 [Official Site for Redux Toolkit](https://redux-toolkit.js.org/)
+- 🔗 [Redux Devtools](https://github.com/reduxjs/redux-devtools)
+- 🔗 [Immer.js](https://immerjs.github.io/immer/)
 
 
 ### ⚙ VS Code Extensions I Use:
@@ -53,6 +55,8 @@
 
 ### 💻 Source Code
 
-- 🔗 [Chapter 1]()
+- 🔗 [Chapter 1](https://github.com/gitdagray/react_redux_toolkit/tree/main/01_lesson)
+- 🔗 [Chapter 2 Starter Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/02_lesson_starter)
+- 🔗 [Chapter 2 Completed Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/02_lesson)
 
 
