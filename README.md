@@ -58,5 +58,7 @@
 - 🔗 [Chapter 1](https://github.com/gitdagray/react_redux_toolkit/tree/main/01_lesson)
 - 🔗 [Chapter 2 Starter Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/02_lesson_starter)
 - 🔗 [Chapter 2 Completed Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/02_lesson)
+- 🔗 [Chapter 3 Starter Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/03_lesson_starter)
+- 🔗 [Chapter 3 Completed Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/03_lesson)
 
 
