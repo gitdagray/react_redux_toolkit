@@ -43,6 +43,9 @@
 - 🔗 [Redux Devtools](https://github.com/reduxjs/redux-devtools)
 - 🔗 [Immer.js](https://immerjs.github.io/immer/)
 
+### 📚 React Router References
+- 🔗 [Official Site for React Router](https://reactrouter.com/docs/en/v6)
+- 🔗 [React Router v6 Tutorial](https://github.com/gitdagray/react_router_v6)
 
 ### ⚙ VS Code Extensions I Use:
 
@@ -60,5 +63,7 @@
 - 🔗 [Chapter 2 Completed Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/02_lesson)
 - 🔗 [Chapter 3 Starter Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/03_lesson_starter)
 - 🔗 [Chapter 3 Completed Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/03_lesson)
+- 🔗 [Chapter 4 Starter Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/04_lesson_starter)
+- 🔗 [Chapter 4 Completed Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/04_lesson)
 
 
