@@ -11,21 +11,13 @@ const initialState = {
 }
 
 export const fetchPosts = createAsyncThunk('posts/fetchPosts', async () => {
-    try {
-        const response = await axios.get(POSTS_URL)
-        return [...response.data];
-    } catch (err) {
-        return err.message;
-    }
+    const response = await axios.get(POSTS_URL)
+    return response.data
 })
 
 export const addNewPost = createAsyncThunk('posts/addNewPost', async (initialPost) => {
-    try {
-        const response = await axios.post(POSTS_URL, initialPost)
-        return response.data
-    } catch (err) {
-        return err.message;
-    }
+    const response = await axios.post(POSTS_URL, initialPost)
+    return response.data
 })
 
 export const updatePost = createAsyncThunk('posts/updatePost', async (initialPost) => {
