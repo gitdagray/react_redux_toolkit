@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.5rem;
+}
+
+input[type="text"], button {
+  font: inherit;
+}
+
+main {
+  margin: auto;
+  max-width: 600px;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+article {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid hsl(0, 0%, 58%);
+}
+
+.todo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+input[type="checkbox"] {
+  min-width: 30px;
+  min-height: 30px;
+  margin-right: 1rem;
+}
+
+button {
+  min-width: 50px;
+  min-height: 50px;
+  border: 1px solid #333;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.trash {
+  background-color: #fff;
+  color: mediumvioletred;
+}
+
+.trash:focus, .trash:hover {
+  filter:brightness(120%)
+}
+
+form {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #333;
+  margin-bottom: 1rem;
+}
+
+form label {
+  position: absolute;
+  left: -10000px;
+}
+
+.new-todo {
+  width: 100%;
+  padding-right: 30px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 10px;
+  border: 0.5px solid #333;
+}
+
+.submit {
+  background-color: gray;
+  color: #fff;
+}
+
+.submit:focus, .submit:hover {
+  background-color: limegreen;
+}
