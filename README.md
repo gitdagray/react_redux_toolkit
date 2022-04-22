@@ -67,5 +67,7 @@
 - 🔗 [Chapter 4 Completed Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/04_lesson)
 - 🔗 [Chapter 5 Starter Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/05_lesson_starter)
 - 🔗 [Chapter 5 Completed Code](https://github.com/gitdagray/react_redux_toolkit/tree/main/05_lesson)
+- 🔗 [Chapter 6 Starter Code - RTK Query](https://github.com/gitdagray/react_redux_toolkit/tree/main/06_lesson_starter)
+- 🔗 [Chapter 6 Completed Code - RTK Query](https://github.com/gitdagray/react_redux_toolkit/tree/main/06_lesson)
 
 
