@@ -1,6 +1,6 @@
 # "React Redux Toolkit for Beginners"
 
-### ?? Chapters
+### 7 Chapters
 
 ---
 
