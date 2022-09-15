@@ -1,6 +1,6 @@
 # "React Redux Toolkit for Beginners"
 
-### 7 Chapters
+### ~~7~~ 8 Chapters
 
 ---
 
@@ -76,5 +76,6 @@
 - 🔗 [Chapter 6 Completed Code - RTK Query](https://github.com/gitdagray/react_redux_toolkit/tree/main/06_lesson)
 - 🔗 [Chapter 7 Starter Code - Advanced Redux Blog](https://github.com/gitdagray/react_redux_toolkit/tree/main/07_lesson_starter)
 - 🔗 [Chapter 7 Completed Code - Advanced Redux Blog](https://github.com/gitdagray/react_redux_toolkit/tree/main/07_lesson)
-
-
+  
+🚩🚩🚩
+- 🔗 [Chapter 8 - Blog Project with full RTK Query Refactor](https://github.com/gitdagray/react_redux_toolkit/tree/main/08_lesson)
