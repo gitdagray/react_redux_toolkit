@@ -3,18 +3,26 @@ import { useGetPostsQuery } from './postsSlice';
 
 const PostsList = () => {
     const {
-        data: posts,
+        postsIds,
         isLoading,
         isSuccess,
         isError,
         error
-    } = useGetPostsQuery('getPosts')
+    } = useGetPostsQuery('getPosts', {
+        selectFromResult: ({ data, isLoading, isSuccess, isError, error }) => ({
+            postsIds: data?.ids,
+            isLoading,
+            isSuccess,
+            isError,
+            error,
+        }),
+    })
 
     let content;
     if (isLoading) {
         content = <p>"Loading..."</p>;
     } else if (isSuccess) {
-        content = posts.ids.map(postId => <PostsExcerpt key={postId} postId={postId} />)
+        content = postsIds?.map(postId => <PostsExcerpt key={postId} postId={postId} />)
     } else if (isError) {
         content = <p>{error}</p>;
     }
