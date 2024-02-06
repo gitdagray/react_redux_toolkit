@@ -80,7 +80,7 @@ export const extendedApiSlice = apiSlice.injectEndpoints({
         updatePost: builder.mutation({
             query: initialPost => ({
                 url: `/posts/${initialPost.id}`,
-                method: 'PUT',
+                method: 'PATCH',
                 body: {
                     ...initialPost,
                     date: new Date().toISOString()
